@@ -2,7 +2,7 @@
 using namespace std;
 
 //variable label
-string nama:
+string nama;
 
 int main(){ //program utama
     int age; //variable local
@@ -16,5 +16,5 @@ int main(){ //program utama
     cout << "Selamat Berbuka" << endl;
     cout << "UMY Ganteng" << endl;
 
-    
+
 }
